@@ -3,7 +3,6 @@
 </p>
 <p align="center"><h1 align="center">STEPHANOGRAPHY-TOOL</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python Version">
