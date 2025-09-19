@@ -151,7 +151,6 @@ Run the test suite using the following command:
 - [ ] Drag & drop support in GUI.
 - [ ] File embedding mode (hide `.txt` files).
 - [ ] Save decoded content to a file.
-- [ ] Dark/light theme toggle.
 - [ ] Export as standalone `.exe` / `.app`.
 - [ ] Batch encoding/decoding in CLI.
 
